@@ -93,9 +93,8 @@ the liste contains (Full name, Email, Phone number, Client type, Risque grade, V
    6. TAX/PEP
    
    7. Validatoin
- <img src="./assets/validation_client_onboardin.png">
+       <img src="./assets/validation_client_onboardin.png">
  The admin can validate the necessary steps to verify the identity of the client.
-
    8. Client Files
    * contains client documents (ex: Proof Of Address, Proof of wealth, Social media).
   
