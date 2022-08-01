@@ -75,8 +75,8 @@ the liste contains (Full name, Email, Phone number, Client type, Risque grade, V
 <img src="./assets/onboarding_steps.png">
 
 - In the Client Onboarding section:
-   1. Onboarding Steps:
-The admin can see the status of each onboarding step along with the option to edit the step if it is invalid by clicking the Change Onboarding Step button at right.
+   1. Onboarding Steps
+    * The admin can see the status of each onboarding step along with the option to edit the step if it is invalid by clicking the Change Onboarding Step button at right.
    
    2. Profile
     * Contains account information plus personal information of the client
