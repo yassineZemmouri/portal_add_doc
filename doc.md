@@ -77,17 +77,21 @@ the liste contains (Full name, Email, Phone number, Client type, Risque grade, V
 - In the Client Onboarding section:
    1. Onboarding Steps:
 The admin can see the status of each onboarding step along with the option to edit the step if it is invalid by clicking the Change Onboarding Step button at right.
+   
    2. Profile
     * Contains account information plus personal information of the client
+   
    3. ID Verification
      * Compare the personal information extracted from the customer's passport with the information on the Omboarding.
      * Display the Passport image of the client
+  
    4. Wealth
     <img src="./assets/wealth.png">
+
    5. Risk Assessment
      * The information required to analyze a client's investment risk. (Personal Score, Experience Score, wealth Score, Objectives Score, Total Score, Risk Level, Age, Number of dependents, Liquid Net, FinaMaze Portion, Investments Familiarity, Finance Experience, Net Annual Income, Crisis Loss, Net Wealth, TakeProfile / StopLoss).
    6. TAX/PEP
-   * 
+   
    7. Validatoin
  <img src="./assets/validation_client_onboardin.png">
  The admin can validate the necessary steps to verify the identity of the client.
@@ -98,6 +102,7 @@ The admin can see the status of each onboarding step along with the option to ed
 - In the Client Dashboard section:
   1. Bank Account
    * liste of bank acount used by client
+  
   2. Investments
    * Liste of client's investments contains(Inception date, Exit date, Account id, First name, Last name, Smartfolio, Layer, class, Risk Solution, Take Profit, Stop Loss, Residual, Inception[invested, Rebalanced], Live[NAV, Performance]).
    * The investments can be filtred by they status.
@@ -105,11 +110,13 @@ The admin can see the status of each onboarding step along with the option to ed
   
   3. Cash
    <img src="./assets/Cash_client_dashboard.png">
+  
   4. Holdings
    <img src="./assets/holdings_client_dashboard.png">
     * List of all Tickers invested by the client with their respective quantity.
   
   5. Cash Transactions
+  
   6. Statements
 
 - In the Admin Actions section:
@@ -120,10 +127,13 @@ The admin can see the status of each onboarding step along with the option to ed
    * Upload client files
    * Reset client password
    * Delet client
+  
   2. Send Email
    Admin can choose a specific email template previously created in Admin/Email_Templates to send an email to client.
+  
   3. Email History
     List of emails sent to the client.
+  
   4. Onboarding History
     <img src="./assets/onboarding_steps_history.png">
 
